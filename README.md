@@ -29,7 +29,7 @@ I enjoy exploring new tech and pushing my code quality to the next level.
 
 ## 🔥 **Featured Project — ReminderApp (React Native)**
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-TaskApp-blue?style=for-the-badge&logo=react&color=00D1FF">
+  <img src="https://img.shields.io/badge/React%20Native-ReminderApp-blue?style=for-the-badge&logo=react&color=00D1FF">
 </p>
 
 ✔ Alarm Scheduling  
