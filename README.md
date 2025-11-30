@@ -27,7 +27,7 @@ I enjoy exploring new tech and pushing my code quality to the next level.
   <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,vscode,androidstudio,git,github,postman,figma&perline=7" />
 </p>
 
-## 🔥 **Featured Project — TaskApp (React Native)**
+## 🔥 **Featured Project — ReminderApp (React Native)**
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-TaskApp-blue?style=for-the-badge&logo=react&color=00D1FF">
 </p>
