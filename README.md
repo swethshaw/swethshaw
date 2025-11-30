@@ -1,117 +1,102 @@
-<!-- Animated Banner -->
+<!-- ======================================================= -->
+<!--            ULTRA PREMIUM README FOR SWETH SHAW          -->
+<!-- ======================================================= -->
+
+<!-- NEON NAME BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/eWfYx8F.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=55&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=120&lines=SWETH+SHAW;FULL+STACK+DEVELOPER;PYTHON+CODER;MOBILE+APP+BUILDER" />
 </p>
 
-<!-- Floating Emojis -->
+<!-- ANIMATED WAVY DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Python+Coder;Mobile+App+Developer;Clean+Code+Enthusiast;Building+Modern+UI+%26+Apps" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<!-- GRADIENT INTRO TEXT -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Building%20Modern%20Experiences-Gradient?style=for-the-badge&logoColor=white&color=8A2BE2&labelColor=00FFFF">
+</h2>
+
+<h3 align="center">
+  ✨ Full-Stack Developer • Python Expert • React Native Specialist ✨  
+</h3>
+
+---
+
+## 🟦 **About Me (Glassmorphism Card)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-blue?style=for-the-badge&logo=python&color=00FFFF">
+  <img src="https://img.shields.io/badge/UI-Modern-pink?style=for-the-badge&logo=react&color=FF00FF">
+  <img src="https://img.shields.io/badge/Learning-Always-green?style=for-the-badge&logo=github&color=00FF88">
+</p>
+
+I build **beautiful, functional apps** with a focus on **speed, smooth UI, and clean structure**.  
+I enjoy exploring new tech and pushing my code quality to the next level.
+
+---
+
+## 🎨 **Tech Stack (Premium Icons)**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,vscode,androidstudio,git,github,postman,figma&perline=7" />
 </p>
 
 ---
 
-<!-- Glassmorphism Intro -->
-<div align="center" style="padding: 20px; border-radius: 20px; backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 0 25px rgba(0,255,255,0.15);">
-
-### 👋 Hi, I'm **Sweth Shaw**  
-**Full Stack Developer | Python Enthusiast | React Native Builder**
-
-I create *modern*, *clean*, and *high-performance* apps with smooth UI/UX  
-and strong backend logic. I love animations, premium UI and efficient code.
-
-</div>
-
----
-
-## ⚡ **Premium Badges**
-
+## 🔥 **Featured Project — TaskApp (React Native)**
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00f0ff?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Python-Coder-ff00e6?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-8A2BE2?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-39FF14?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/React%20Native-TaskApp-blue?style=for-the-badge&logo=react&color=00D1FF">
 </p>
 
+✔ Alarm Scheduling  
+✔ Date & Time Picker (White Theme)  
+✔ Notification Manager  
+✔ Remaining Time Calculation  
+✔ Redux State Management  
+✔ Smooth Animations & Pagination  
+
 ---
 
-## 🌐 **Tech Stack**
-
+## ⚡ **My GitHub Stats (Theme-Aware + Premium)**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,git,github,vscode,postman,figma" />
-</p>
 
----
-
-## 🌀 **Premium Stats (Dark/Light Auto Mode)**
-
-<p align="center">
+  <!-- GITHUB STATS -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" />
   </picture>
 
+  <!-- STREAK -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&theme=default&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&hide_border=true" />
   </picture>
+
 </p>
 
 ---
 
-## 🧊 **Top Languages (Auto Dark/Light)**
-
+## 🧊 **3D Contribution Graph**
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&hide_border=true" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/diagram.svg" width="95%">
 </p>
 
 ---
 
-## 🚀 **Featured Project – TaskApp**
-
-<div align="center" style="padding: 20px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(8px); box-shadow: 0 0 20px rgba(0,255,255,0.15);">
-
-### 📱 **TaskApp — Smart Task Manager**
-✔ Smooth animations  
-✔ Date & Time alarms  
-✔ Auto-notifications  
-✔ Redux state management  
-✔ Elegant UI + dark mode  
-
-</div>
-
----
-
-## 🌈 **Animated Contribution Snake**
-
+## 🌈 **Animated Wave Ending**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
 </p>
 
 ---
 
-## ✨ **Fun Section**
-
+## 🤝 **Let’s Connect**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swethshaw&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/Collaboration-Open-brightgreen?style=for-the-badge&logo=github&color=00FFAA">
+  <img src="https://img.shields.io/badge/Projects-Welcome-blueviolet?style=for-the-badge&logo=vercel&color=FF00FF">
 </p>
 
----
+<p align="center"><b>“Code. Create. Improve. Repeat.”</b></p>
 
-## 🤝 **Connect With Me**
-
-<p align="center">
-  <a href="https://github.com/swethshaw"><img src="https://img.shields.io/badge/GitHub-Visit-171515?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-<p align="center">
-  <b>“Code is the paint, the IDE is the canvas — create art.”</b>
-</p>
-
+<!-- END OF ULTRA PREMIUM README -->
