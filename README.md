@@ -42,11 +42,11 @@ I enjoy exploring new tech and pushing my code quality to the next level.
 
 ## ⚡ **My GitHub Stats**  
 <p align="center">
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=radical&hide_border=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=default&hide_border=true&count_private=true" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" />
-  </picture>
+  </picture> -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&theme=radical&hide_border=true" />
