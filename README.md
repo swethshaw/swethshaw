@@ -1,105 +1,73 @@
-<!-- ========================================= -->
-<!--         PREMIUM COMBINED README           -->
-<!-- ========================================= -->
-
-<!-- ANIMATED / THEME-AWARE BANNER -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/eKDwW0T.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/MRsm6Ff.gif">
-    <img src="https://i.imgur.com/eKDwW0T.gif" width="100%">
-  </picture>
-</p>
-
-<h1 align="center">✨ Sweth Shaw ✨</h1>
-<h3 align="center">Full-Stack Developer • Python Coder • Mobile App Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Coder;React+Native+Developer;Clean+UI+%2F+Modern+UX+Lover;Building+Apps+With+Passion+%26+Precision" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=55&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=120&lines=SWETH+SHAW;FULL+STACK+DEVELOPER;PYTHON+CODER;MOBILE+APP+BUILDER" />
 </p>
 
----
-
-## 🎯 **About Me**
-I’m a passionate **Full-Stack Developer** who enjoys building fast, clean and modern applications.  
-My focus is on:
-
-- 📱 React Native Apps  
-- 🐍 Python Automation & Backend Logic  
-- 🌐 Full-Stack UI + API Development  
-- 🎨 Clean UI • Smooth UX • Minimal Aesthetic  
-
-I believe in writing **clean, maintainable code**, learning every day, and creating apps that feel great to use.
-
----
-
-## 🧰 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,git,github,vscode,androidstudio,postman,figma&perline=7" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Building%20Modern%20Experiences-Gradient?style=for-the-badge&logoColor=white&color=8A2BE2&labelColor=00FFFF">
+</h2>
 
-## 🚀 **Featured Work**
-### 📌 **TaskApp (React Native)**
-A modern task manager with:  
-✔ Redux State Management  
+<h3 align="center">
+  ✨ Full-Stack Developer • Python Expert • React Native Specialist ✨  
+</h3>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-blue?style=for-the-badge&logo=python&color=00FFFF">
+  <img src="https://img.shields.io/badge/UI-Modern-pink?style=for-the-badge&logo=react&color=FF00FF">
+  <img src="https://img.shields.io/badge/Learning-Always-green?style=for-the-badge&logo=github&color=00FF88">
+</p>
+
+I build **beautiful, functional apps** with a focus on **speed, smooth UI, and clean structure**.  
+I enjoy exploring new tech and pushing my code quality to the next level.
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,vscode,androidstudio,git,github,postman,figma&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-TaskApp-blue?style=for-the-badge&logo=react&color=00D1FF">
+</p>
+
 ✔ Alarm Scheduling  
-✔ Expo Notifications  
-✔ Animated Cards  
-✔ Remaining Time Calculator  
-✔ Clean White-Themed Pickers  
+✔ Date & Time Picker (White Theme)  
+✔ Notification Manager  
+✔ Remaining Time Calculation  
+✔ Redux State Management  
+✔ Smooth Animations & Pagination  
 
----
-
-### 📁 Other Projects  
-- **micromouse-maze** — Python-based maze logic  
-- **reminder** — Web reminder system  
-- **bookshow** — Event/booking UI  
-- **devops** — Clean static UI layouts  
-
----
-
-## 📊 **GitHub Performance**
 <p align="center">
+
+  <!-- GITHUB STATS -->
   <picture>
-    <!-- DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=tokyonight&hide_border=true" />
-    <!-- LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" />
   </picture>
 
+  <!-- STREAK -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&hide_border=true" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&theme=default&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=swethshaw&hide_border=true" />
   </picture>
+
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&hide_border=true" width="40%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/diagram.svg" width="95%">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+</p>
 
-## 🌱 **Learning & Improving**
-- 🔥 Advanced React Native Animations  
-- ⚡ Backend Patterns & Clean Architecture  
-- ⏳ Better DevOps & Deployment Skills  
-- 🧠 Writing cleaner, reusable code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Collaboration-Open-brightgreen?style=for-the-badge&logo=github&color=00FFAA">
+  <img src="https://img.shields.io/badge/Projects-Welcome-blueviolet?style=for-the-badge&logo=vercel&color=FF00FF">
+</p>
 
----
-
-## 🤝 **Let’s Connect**
-- 💬 Open to collaborations  
-- 🔧 Open-source contribution ready  
-- 🌟 Always happy to learn or help  
-
-<p align="center"><b>“Code. Improve. Repeat.”</b></p>
-
-<!-- END OF PREMIUM README -->
+<p align="center"><b>“Code. Create. Improve. Repeat.”</b></p>
