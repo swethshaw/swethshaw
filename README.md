@@ -1,64 +1,105 @@
-🌟 Hi, I'm Sweth Shaw
-Full-Stack Developer • Python Coder • Mobile App Builder
-<p align="center"> <img src="https://i.imgur.com/2p0jU6N.gif" width="600px" /> </p>
-🚀 About Me
+<!-- ========================================= -->
+<!--         PREMIUM COMBINED README           -->
+<!-- ========================================= -->
 
-I'm a passionate Full-Stack Developer who loves building clean, functional apps — from UI to backend logic.
-I enjoy problem-solving and experimenting with new tech, especially in:
+<!-- ANIMATED / THEME-AWARE BANNER -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/eKDwW0T.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/MRsm6Ff.gif">
+    <img src="https://i.imgur.com/eKDwW0T.gif" width="100%">
+  </picture>
+</p>
 
-📱 React Native / Mobile Development
+<h1 align="center">✨ Sweth Shaw ✨</h1>
+<h3 align="center">Full-Stack Developer • Python Coder • Mobile App Builder</h3>
 
-🐍 Python Scripting & Automation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Coder;React+Native+Developer;Clean+UI+%2F+Modern+UX+Lover;Building+Apps+With+Passion+%26+Precision" />
+</p>
 
-🌐 Frontend + Backend Web Development
+---
 
-⚙️ API Design & Integrations
+## 🎯 **About Me**
+I’m a passionate **Full-Stack Developer** who enjoys building fast, clean and modern applications.  
+My focus is on:
 
-I believe in writing clean, maintainable code and creating apps that feel smooth and modern.
+- 📱 React Native Apps  
+- 🐍 Python Automation & Backend Logic  
+- 🌐 Full-Stack UI + API Development  
+- 🎨 Clean UI • Smooth UX • Minimal Aesthetic  
 
-🧰 Tech Stack & Tools
-Languages & Frameworks
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,reactnative,nodejs,html,css" /> </p>
-Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" /> </p>
-📂 Featured Projects
-🔥 TaskApp – Smart Task Manager (React Native)
+I believe in writing **clean, maintainable code**, learning every day, and creating apps that feel great to use.
 
-A fully functional task app supporting:
-✔ Task creation/update
-✔ Alarm scheduling
-✔ Notification handling
-✔ Redux state management
-✔ Animated cards & pagination
-✔ Date & time pickers in modern UI
+---
 
-📦 Other Projects
+## 🧰 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,reactnative,js,ts,nodejs,html,css,git,github,vscode,androidstudio,postman,figma&perline=7" />
+</p>
 
-micromouse-maze — Maze-solving logic in Python
+---
 
-reminder — Simple yet clean reminder app
+## 🚀 **Featured Work**
+### 📌 **TaskApp (React Native)**
+A modern task manager with:  
+✔ Redux State Management  
+✔ Alarm Scheduling  
+✔ Expo Notifications  
+✔ Animated Cards  
+✔ Remaining Time Calculator  
+✔ Clean White-Themed Pickers  
 
-devops — Frontend web UI
+---
 
-bookshow — Event/booking system UI
+### 📁 Other Projects  
+- **micromouse-maze** — Python-based maze logic  
+- **reminder** — Web reminder system  
+- **bookshow** — Event/booking UI  
+- **devops** — Clean static UI layouts  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&theme=radical&hide_border=true" width="48%" /> </p>
-✨ What I'm Working On
+---
 
-Building polished UI & animations in React Native
+## 📊 **GitHub Performance**
+<p align="center">
+  <picture>
+    <!-- DARK MODE -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=tokyonight&hide_border=true" />
+    <!-- LIGHT MODE -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=swethshaw&show_icons=true&hide_border=true" width="48%" />
+  </picture>
 
-Implementing scheduling + notifications
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethshaw&hide_border=true" width="48%" />
+  </picture>
+</p>
 
-Improving backend knowledge
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethshaw&layout=compact&hide_border=true" width="40%" />
+  </picture>
+</p>
 
-Learning new patterns & writing cleaner code
+---
 
-🤝 Let's Connect
+## 🌱 **Learning & Improving**
+- 🔥 Advanced React Native Animations  
+- ⚡ Backend Patterns & Clean Architecture  
+- ⏳ Better DevOps & Deployment Skills  
+- 🧠 Writing cleaner, reusable code  
 
-I'm always ready to collaborate or discuss exciting projects!
+---
 
-📬 GitHub → You're already here 😉
-💡 Open to contributions, ideas & learning together
+## 🤝 **Let’s Connect**
+- 💬 Open to collaborations  
+- 🔧 Open-source contribution ready  
+- 🌟 Always happy to learn or help  
 
-💬 “The best error message is the one that never shows up.”
+<p align="center"><b>“Code. Improve. Repeat.”</b></p>
+
+<!-- END OF PREMIUM README -->
