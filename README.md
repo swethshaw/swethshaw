@@ -75,21 +75,15 @@ I enjoy exploring new tech and pushing my code quality to the next level.
 
 </p>
 
----
-
 ## 🧊 **3D Contribution Graph**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/diagram.svg" width="95%">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" width="95%">
 </p>
-
----
 
 ## 🌈 **Animated Wave Ending**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00c8&height=120&section=footer" width="100%">
 </p>
-
----
 
 ## 🤝 **Let’s Connect**
 <p align="center">
